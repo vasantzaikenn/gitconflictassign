@@ -22,5 +22,10 @@ security patch()
 //Adding Security Patch
 }
 
+feature2 code()
+{
+//feature2 code 
+}
+
 
 }
